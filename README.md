@@ -2,7 +2,7 @@
 Hi there! My name is Prakasit Lertprakitsin and I'm a full-stack developer. I have a passion for creating beautiful and functional websites and enjoy using my skills and expertise to Create unconventional works and always learning new things. I'm excited to connect with like-minded individuals and collaborate on projects.
 
 # 🗂️ My Portfolio: 
-### [https://prakasit-lertprakitsin.github.io]
+### https://prakasit-lertprakitsin.github.io
 
 
 ## 🌐 Socials:
